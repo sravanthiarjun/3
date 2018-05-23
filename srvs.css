@@ -1,0 +1,58 @@
+@media screen and (min-width: 435px) and (max-width:639px) @media screen and (min-width: 640px) and (max-width:847px) .port {
+     text-align: left;
+     color:black;
+}
+ .nav {
+     text-align: center;
+     color:red;
+}
+ .int {
+     height: auto;
+     width: 200px;
+     color: black;
+     float: left;
+     border: 2px solid blue;
+     margin-left: 50px;
+     background-color:aqua;
+}
+ .play {
+     height: auto;
+     width: 200px;
+     color: green;
+     float: left;
+     border: 2px solid red;
+     margin-left: 50px;
+     background-color:DarkGray;
+}
+ .sin {
+     height: auto;
+     width: 200px;
+     color: blue;
+     float: left;
+     border: 2px solid green;
+     margin-left: 50px;
+     background-color:gold;
+}
+ .mod {
+     height: auto;
+     width: 200px;
+     color: blue;
+     float: left;
+     border: 2px solid black;
+     margin-left: 50px;
+     background-color:MediumPurple;
+}
+ .chill {
+     float:left;
+     margin-left:20px;
+     margin-top:20px;
+     color:blue;
+}
+ .gym {
+     color: green;
+     float: left;
+     text-align: left;
+}
+ 
+
+
